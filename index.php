@@ -4,7 +4,7 @@
 <html>
 
 	<head>
-		<title>Wong Lye Enterpise</title>
+		<title>Singapore Racking Solution</title>
 		<link rel = "stylesheet" type = "text/css" href = "css/style1.css">
 	</head>
 
@@ -13,15 +13,11 @@
 		<div class = "fullwrap">
 
 			<div class = "header">
-				<h1> Wong Lye Enterprise</h1>
+				<img  src ="image/wonglye_logo.png" width ="180" height ="180" alt ="Wong Lye Logo" title ="Wong Lye Logo" align="middle">
 			</div>
 
 			<div class = "navbar">
-				<ul>
-					<ls>Home</ls>
-					<ls>About</ls>
-					<ls>Contact</ls>
-				</ul>
+				<?php include ("navbar.php");?>
 			</div>
 
 			<div class = "maincontent">
