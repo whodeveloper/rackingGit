@@ -1,7 +1,8 @@
+<link rel = "stylesheet" type = "text/css" href = "css/style1.css">
 	<ul>
-		<ls> <a href = "index.php">Home</a> </ls>
-		<ls> <a href = "products.php">Products</a> </ls>
-		<ls> <a href = "projects.php">Projects </a> </ls>
-		<ls> <a href = "contact_us.php">Contact Us </a></ls>
-		<ls> <a href = "about_us.php">About Us </a></ls>
+		<li> <a href = "index.php">HOME</a> </li>
+		<li> <a href = "about_us.php">ABOUT US </a></li>
+		<li> <a href = "products.php">PRODUCTS</a> </li>
+		<li> <a href = "projects.php">PROJECTS </a> </li>
+		<li> <a href = "contact_us.php">CONTACT US </a></li>
 	</ul>
